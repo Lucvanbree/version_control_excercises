@@ -1,4 +1,11 @@
 these are my answers
+<<<<<<< HEAD
 here is some 
 other data compared 
 to what is in Github
+=======
+and I am adding
+some extra
+lines for this 
+excercise
+>>>>>>> e22894f2c329f5ba89caa9b6ad977356f511ba0d
