@@ -1,1 +1,4 @@
 these are my answers
+here is some 
+other data compared 
+to what is in Github
